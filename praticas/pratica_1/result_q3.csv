@@ -1,0 +1,794 @@
+﻿Customer Name;Segment;perform
+Aaron Bergman;Consumer;D
+Aaron Hawkins;Corporate;A
+Aaron Smayling;Corporate;E
+Adam Bellavance;Home Office;A
+Adam Hart;Corporate;C
+Adam Shillingsburg;Consumer;E
+Adrian Barton;Consumer;E
+Adrian Hane;Home Office;E
+Adrian Shami;Home Office;A
+Aimee Bixby;Consumer;B
+Alan Barnes;Consumer;B
+Alan Dominguez;Home Office;A
+Alan Haines;Corporate;E
+Alan Hwang;Consumer;A
+Alan Schoenberger;Corporate;A
+Alan Shonely;Consumer;E
+Alejandro Ballentine;Home Office;A
+Alejandro Grove;Consumer;A
+Alejandro Savely;Corporate;E
+Aleksandra Gannaway;Corporate;B
+Alex Avila;Consumer;A
+Alex Grayson;Consumer;E
+Alex Russell;Corporate;E
+Alice McCarthy;Corporate;A
+Allen Armold;Consumer;A
+Allen Goldenen;Consumer;E
+Allen Rosenblatt;Corporate;B
+Alyssa Crouse;Corporate;E
+Alyssa Tate;Home Office;E
+Amy Cox;Consumer;D
+Amy Hunt;Consumer;D
+Andrew Allen;Consumer;A
+Andrew Gjertsen;Corporate;C
+Andrew Roberts;Consumer;E
+Andy Gerbode;Corporate;C
+Andy Reiter;Consumer;A
+Andy Yotov;Corporate;A
+Anemone Ratner;Consumer;A
+Angele Hood;Consumer;C
+Ann Blume;Corporate;E
+Ann Chong;Corporate;D
+Ann Steele;Home Office;A
+Anna Andreadi;Consumer;B
+Anna Chung;Consumer;E
+Anna Gayman;Consumer;D
+Anna Häberlin;Corporate;E
+Anne McFarland;Consumer;B
+Anne Pryor;Home Office;C
+Annie Thurman;Consumer;B
+Annie Zypern;Consumer;C
+Anthony Garverick;Home Office;E
+Anthony Jacobs;Corporate;B
+Anthony Johnson;Corporate;A
+Anthony O'Donnell;Corporate;E
+Anthony Rawles;Corporate;B
+Anthony Witt;Consumer;E
+Arianne Irving;Consumer;A
+Art Ferguson;Consumer;E
+Art Foster;Consumer;E
+Arthur Gainer;Consumer;E
+Arthur Prichep;Consumer;B
+Arthur Wiediger;Home Office;E
+Ashley Jarboe;Consumer;A
+Astrea Jones;Consumer;A
+Barbara Fisher;Corporate;B
+Barry Blumstein;Corporate;E
+Barry Franz;Home Office;E
+Barry Französisch;Corporate;E
+Barry Gonzalez;Consumer;E
+Barry Pond;Corporate;E
+Barry Weirich;Consumer;C
+Bart Folk;Consumer;A
+Bart Pistole;Corporate;D
+Bart Watters;Corporate;C
+Becky Castell;Home Office;C
+Becky Martin;Consumer;E
+Becky Pak;Consumer;A
+Ben Ferrer;Home Office;B
+Ben Peterman;Corporate;D
+Ben Wallace;Consumer;E
+Benjamin Farhat;Home Office;A
+Benjamin Patterson;Consumer;A
+Benjamin Venier;Corporate;A
+Berenike Kampe;Consumer;E
+Beth Fritzler;Corporate;D
+Beth Paige;Consumer;E
+Beth Thompson;Home Office;A
+Bill Donatelli;Consumer;B
+Bill Eplett;Home Office;A
+Bill Overfelt;Corporate;E
+Bill Shonely;Corporate;A
+Bill Stewart;Corporate;E
+Bill Tyler;Corporate;D
+Bobby Elias;Consumer;A
+Bobby Odegard;Consumer;A
+Bobby Trafton;Consumer;E
+Brad Eason;Home Office;D
+Brad Norvell;Corporate;B
+Brad Thomas;Home Office;A
+Bradley Drucker;Consumer;E
+Bradley Nguyen;Consumer;A
+Bradley Talbott;Home Office;B
+Brenda Bowman;Corporate;E
+Brendan Dodson;Home Office;A
+Brendan Murry;Corporate;E
+Brendan Sweed;Corporate;E
+Brian Dahlen;Consumer;A
+Brian DeCherney;Consumer;E
+Brian Derr;Consumer;A
+Brian Moss;Corporate;B
+Brian Stugart;Consumer;E
+Brian Thompson;Consumer;A
+Brooke Gillingham;Corporate;B
+Brosina Hoffman;Consumer;D
+Bruce Degenhardt;Consumer;A
+Bruce Geld;Consumer;C
+Bruce Stewart;Consumer;C
+Bryan Davis;Consumer;A
+Bryan Mills;Consumer;E
+Bryan Spruell;Home Office;A
+Candace McMahon;Corporate;B
+Cari Sayre;Corporate;E
+Cari Schnelling;Consumer;E
+Carl Jackson;Corporate;D
+Carl Ludwig;Consumer;A
+Carl Weiss;Home Office;A
+Carlos Daly;Consumer;A
+Carlos Meador;Consumer;C
+Carlos Soltero;Consumer;E
+Carol Adams;Corporate;A
+Carol Darley;Consumer;E
+Carol Triggs;Consumer;E
+Caroline Jumper;Consumer;E
+Cassandra Brandow;Consumer;E
+Catherine Glotzbach;Home Office;C
+Cathy Armstrong;Home Office;E
+Cathy Hwang;Home Office;D
+Cathy Prescott;Corporate;D
+Chad Cunningham;Home Office;E
+Chad McGuire;Consumer;A
+Chad Sievert;Consumer;B
+Charles Crestani;Consumer;A
+Charles McCrossin;Consumer;E
+Charles Sheldon;Corporate;D
+Charlotte Melton;Consumer;E
+Chloris Kastensmidt;Consumer;E
+Chris Cortes;Consumer;B
+Chris McAfee;Consumer;A
+Chris Selesnick;Corporate;A
+Christina Anderson;Consumer;E
+Christina DeMoss;Consumer;A
+Christina VanderZanden;Consumer;A
+Christine Abelman;Corporate;C
+Christine Kargatis;Home Office;D
+Christine Phan;Corporate;E
+Christine Sundaresam;Consumer;A
+Christopher Conant;Consumer;E
+Christopher Martinez;Consumer;C
+Christopher Schild;Home Office;E
+Christy Brittain;Consumer;E
+Chuck Clark;Home Office;A
+Chuck Magee;Consumer;A
+Chuck Sachs;Consumer;A
+Cindy Chapman;Consumer;E
+Cindy Schnelling;Corporate;E
+Cindy Stewart;Consumer;E
+Claire Gute;Consumer;E
+Claudia Bergmann;Corporate;A
+Clay Cheatham;Consumer;A
+Clay Ludtke;Consumer;B
+Clay Rozendal;Home Office;B
+Clytie Kelty;Consumer;E
+Corey Catlett;Corporate;E
+Corey Roper;Home Office;A
+Corey-Lock;Consumer;D
+Corinna Mitchell;Home Office;B
+Craig Carreira;Consumer;E
+Craig Carroll;Consumer;E
+Craig Leslie;Home Office;E
+Craig Molinari;Corporate;E
+Craig Reiter;Consumer;E
+Craig Yedwab;Corporate;D
+Cyma Kinney;Corporate;E
+Cynthia Arntzen;Consumer;D
+Cynthia Delaney;Home Office;A
+Cynthia Voltz;Corporate;E
+Cyra Reiten;Home Office;D
+Damala Kotsonis;Corporate;D
+Dan Campbell;Consumer;E
+Dan Lawera;Consumer;B
+Dan Reichenbach;Corporate;C
+Dana Kaydos;Consumer;B
+Daniel Byrd;Home Office;C
+Daniel Lacy;Consumer;A
+Daniel Raglin;Home Office;E
+Dario Medina;Corporate;C
+Darren Budd;Corporate;D
+Darren Koutras;Consumer;E
+Darren Powers;Consumer;D
+Darrin Martin;Consumer;E
+Darrin Sayre;Home Office;C
+Darrin Van Huff;Corporate;E
+Dave Brooks;Consumer;E
+Dave Hallsten;Corporate;C
+Dave Kipp;Consumer;C
+Dave Poirier;Corporate;A
+David Bremer;Corporate;C
+David Flashing;Consumer;E
+David Kendrick;Corporate;A
+David Philippe;Consumer;C
+David Smith;Corporate;E
+David Wiener;Corporate;E
+Dean Braden;Consumer;E
+Dean Katz;Corporate;E
+Dean percer;Home Office;E
+Deanra Eno;Home Office;B
+Deborah Brumfield;Home Office;E
+Debra Catini;Consumer;C
+Deirdre Greer;Corporate;B
+Delfina Latchford;Consumer;E
+Denise Leinenbach;Consumer;A
+Denise Monton;Corporate;B
+Dennis Bolton;Home Office;A
+Dennis Kane;Consumer;E
+Dennis Pardue;Home Office;E
+Denny Blanton;Consumer;A
+Denny Joy;Corporate;A
+Denny Ordway;Consumer;C
+Dianna Arnett;Home Office;A
+Dianna Vittorini;Consumer;D
+Dianna Wilson;Home Office;A
+Dionis Lloyd;Corporate;A
+Don Jones;Corporate;A
+Don Miller;Corporate;D
+Don Weiss;Consumer;C
+Dorothy Badders;Corporate;E
+Dorothy Dickinson;Consumer;E
+Dorothy Wardle;Corporate;D
+Dorris liebe;Corporate;E
+Doug Bickford;Consumer;B
+Doug Jacobs;Consumer;A
+Doug O'Connell;Consumer;A
+Duane Benoit;Consumer;D
+Duane Huffman;Home Office;C
+Duane Noonan;Consumer;A
+Ed Braxton;Corporate;E
+Ed Jacobs;Consumer;E
+Ed Ludwig;Home Office;A
+Edward Becker;Corporate;D
+Edward Hooks;Corporate;A
+Edward Nazzal;Consumer;B
+Eileen Kiefer;Home Office;C
+Eleni McCrary;Corporate;C
+Elizabeth Moffitt;Corporate;A
+Ellis Ballard;Corporate;C
+Elpida Rittenbach;Corporate;E
+Emily Burns;Consumer;E
+Emily Ducich;Home Office;E
+Emily Grady;Consumer;E
+Emily Phan;Consumer;E
+Eric Barreto;Consumer;D
+Eric Hoffmann;Consumer;E
+Eric Murdock;Consumer;E
+Erica Bern;Corporate;E
+Erica Hackney;Consumer;A
+Erica Hernandez;Home Office;B
+Erica Smith;Consumer;B
+Erin Ashbrook;Corporate;E
+Erin Creighton;Consumer;C
+Erin Mull;Consumer;E
+Erin Smith;Corporate;E
+Eudokia Martin;Corporate;A
+Eugene Barchas;Consumer;D
+Eugene Hildebrand;Home Office;E
+Eugene Moren;Home Office;A
+Eva Jacobs;Consumer;B
+Evan Bailliet;Consumer;B
+Evan Henry;Consumer;E
+Evan Minnotte;Home Office;A
+Filia McAdams;Corporate;B
+Frank Atkinson;Corporate;E
+Frank Carlisle;Home Office;C
+Frank Gastineau;Home Office;C
+Frank Hawley;Corporate;B
+Frank Merwin;Home Office;E
+Frank Olsen;Consumer;E
+Frank Preis;Consumer;B
+Fred Chung;Corporate;B
+Fred Harton;Consumer;B
+Fred Hopkins;Corporate;D
+Fred McMath;Consumer;E
+Fred Wasserman;Corporate;A
+Gary Hansen;Home Office;E
+Gary Hwang;Consumer;C
+Gary McGarr;Consumer;C
+Gary Mitchum;Home Office;D
+Gary Zandusky;Consumer;A
+Gene Hale;Corporate;E
+Gene McClure;Consumer;A
+George Ashbrook;Consumer;A
+George Bell;Corporate;D
+George Zrebassa;Corporate;A
+Georgia Rosenberg;Corporate;A
+Giulietta Baptist;Consumer;A
+Giulietta Dortch;Corporate;A
+Giulietta Weimer;Consumer;E
+Grace Kelly;Corporate;B
+Grant Thornton;Corporate;E
+Greg Guthrie;Corporate;C
+Greg Hansen;Consumer;E
+Greg Matthias;Consumer;D
+Greg Maxwell;Corporate;A
+Greg Tran;Consumer;A
+Guy Armstrong;Consumer;E
+Guy Phonely;Corporate;C
+Guy Thornton;Consumer;E
+Hallie Redmond;Home Office;B
+Harold Dahlen;Home Office;E
+Harold Engle;Corporate;A
+Harold Pawlan;Home Office;E
+Harold Ryan;Corporate;B
+Harry Greene;Consumer;D
+Harry Marie;Corporate;E
+Heather Jas;Home Office;A
+Heather Kirkland;Corporate;E
+Helen Abelman;Consumer;E
+Helen Andreada;Consumer;E
+Helen Wasserman;Corporate;A
+Henia Zydlo;Consumer;E
+Henry Goldwyn;Corporate;E
+Henry MacAllister;Consumer;B
+Herbert Flentye;Consumer;C
+Hilary Holden;Corporate;A
+Hunter Glantz;Consumer;E
+Hunter Lopez;Consumer;A
+Ionia McGrath;Consumer;A
+Irene Maddox;Consumer;E
+Ivan Gibson;Consumer;A
+Ivan Liston;Consumer;A
+Jack Garza;Consumer;E
+Jack Lebron;Consumer;E
+Jack O'Briant;Corporate;B
+James Galang;Consumer;C
+James Lanier;Home Office;C
+Jamie Frazer;Consumer;B
+Jamie Kunitz;Consumer;D
+Jane Waco;Corporate;A
+Janet Lee;Consumer;E
+Janet Martin;Consumer;E
+Janet Molinari;Corporate;E
+Jas O'Carroll;Consumer;E
+Jason Fortune-;Consumer;B
+Jason Gross;Corporate;E
+Jason Klamczynski;Corporate;A
+Jasper Cacioppo;Consumer;E
+Jay Fein;Consumer;A
+Jay Kimmel;Consumer;C
+Jenna Caffey;Consumer;A
+Jennifer Braxton;Corporate;E
+Jennifer Ferguson;Consumer;A
+Jennifer Halladay;Consumer;E
+Jennifer Jackson;Consumer;A
+Jennifer Patt;Corporate;C
+Jeremy Ellison;Consumer;E
+Jeremy Farry;Consumer;D
+Jeremy Lonsdale;Consumer;A
+Jeremy Pistek;Consumer;A
+Jessica Myrick;Consumer;A
+Jesus Ocampo;Home Office;E
+Jill Fjeld;Consumer;C
+Jill Matthias;Consumer;A
+Jill Stevenson;Corporate;E
+Jim Epp;Corporate;D
+Jim Karlsson;Consumer;B
+Jim Kriz;Home Office;A
+Jim Mitchum;Corporate;D
+Jim Radford;Consumer;E
+Jim Sink;Corporate;E
+Jocasta Rupert;Consumer;D
+Joe Elijah;Consumer;E
+Joe Kamberova;Consumer;E
+Joel Eaton;Consumer;E
+Joel Jenkins;Home Office;B
+John Castell;Consumer;B
+John Dryer;Consumer;C
+John Grady;Corporate;B
+John Huston;Consumer;C
+John Lee;Consumer;B
+John Lucas;Consumer;E
+John Murray;Consumer;E
+John Stevenson;Consumer;C
+Jonathan Doherty;Corporate;A
+Jonathan Howell;Consumer;D
+Joni Blumstein;Consumer;E
+Joni Sundaresam;Home Office;E
+Joni Wasserman;Consumer;C
+Joseph Airdo;Consumer;E
+Joseph Holt;Consumer;A
+Joy Bell-;Consumer;A
+Joy Daniels;Consumer;E
+Joy Smith;Consumer;E
+Julia Barnett;Home Office;E
+Julia Dunbar;Consumer;B
+Julia West;Consumer;E
+Juliana Krohn;Consumer;E
+Julie Creighton;Corporate;A
+Julie Kriz;Home Office;E
+Julie Prescott;Home Office;C
+Justin Deggeller;Corporate;C
+Justin Ellison;Corporate;A
+Justin Hirsh;Consumer;E
+Justin MacKendrick;Consumer;A
+Justin Ritter;Corporate;E
+Kalyca Meade;Corporate;A
+Karen Bern;Corporate;E
+Karen Carlisle;Corporate;A
+Karen Daniels;Consumer;E
+Karen Ferguson;Home Office;A
+Karen Seio;Corporate;E
+Karl Braun;Consumer;E
+Katharine Harms;Corporate;C
+Katherine Ducich;Consumer;B
+Katherine Hughes;Consumer;D
+Katherine Murray;Home Office;C
+Katherine Nockton;Corporate;E
+Katrina Bavinger;Home Office;A
+Katrina Edelman;Corporate;E
+Katrina Willman;Consumer;E
+Kean Nguyen;Corporate;E
+Kean Takahito;Consumer;E
+Kean Thornton;Consumer;C
+Keith Dawkins;Corporate;B
+Keith Herrera;Consumer;C
+Kelly Andreada;Consumer;B
+Kelly Collister;Consumer;E
+Kelly Lampkin;Corporate;E
+Kelly Williams;Consumer;A
+Ken Black;Corporate;B
+Ken Brennan;Corporate;E
+Ken Dana;Corporate;A
+Ken Heidel;Corporate;A
+Ken Lonsdale;Consumer;E
+Khloe Miller;Consumer;A
+Kimberly Carter;Corporate;B
+Kristen Hastings;Corporate;C
+Kristina Nunn;Home Office;D
+Kunst Miller;Consumer;B
+Larry Blacks;Consumer;E
+Larry Hughes;Consumer;E
+Larry Tron;Consumer;B
+Laura Armstrong;Corporate;B
+Laurel Beltran;Home Office;E
+Laurel Elliston;Consumer;E
+Laurel Workman;Corporate;E
+Lauren Leatherbury;Consumer;A
+Lela Donovan;Corporate;E
+Lena Cacioppo;Consumer;E
+Lena Creighton;Consumer;D
+Lena Hernandez;Consumer;D
+Lena Radford;Consumer;E
+Linda Cazamias;Corporate;B
+Linda Southworth;Corporate;E
+Lindsay Castell;Home Office;E
+Lindsay Shagiari;Home Office;E
+Lindsay Williams;Corporate;A
+Lisa DeCherney;Consumer;A
+Lisa Hazard;Consumer;E
+Lisa Ryan;Corporate;E
+Liz Carlisle;Consumer;E
+Liz MacKendrick;Consumer;C
+Liz Pelletier;Consumer;A
+Liz Preis;Consumer;E
+Liz Thompson;Consumer;E
+Liz Willingham;Consumer;B
+Logan Currie;Consumer;E
+Logan Haushalter;Consumer;A
+Lori Olson;Corporate;E
+Luke Foster;Consumer;E
+Luke Schmidt;Corporate;E
+Luke Weiss;Consumer;E
+Lycoris Saunders;Consumer;A
+Lynn Smith;Consumer;A
+Magdelene Morse;Consumer;B
+Marc Crier;Consumer;D
+Marc Harrigan;Home Office;D
+Maria Bertelson;Consumer;C
+Maria Etezadi;Home Office;E
+Maria Zettner;Home Office;B
+Maribeth Dona;Consumer;E
+Maribeth Schnelling;Consumer;E
+Maribeth Yedwab;Corporate;E
+Marina Lichtenstein;Corporate;E
+Maris LaWare;Consumer;D
+Mark Cousins;Corporate;A
+Mark Haberlin;Corporate;A
+Mark Hamilton;Consumer;C
+Mark Packer;Home Office;A
+Mark Van Huff;Consumer;E
+Mary O'Rourke;Consumer;E
+Mary Zewe;Corporate;E
+MaryBeth Skach;Consumer;E
+Mathew Reese;Home Office;E
+Matt Abelman;Home Office;A
+Matt Collins;Consumer;E
+Matt Collister;Corporate;D
+Matt Connell;Corporate;E
+Matt Hagelstein;Corporate;E
+Matthew Clasen;Corporate;E
+Matthew Grinstein;Home Office;C
+Maureen Fritzler;Corporate;C
+Maureen Gastineau;Home Office;E
+Maureen Gnade;Consumer;E
+Maurice Satty;Consumer;E
+Max Engle;Consumer;E
+Max Jones;Consumer;D
+Max Ludwig;Home Office;A
+Maxwell Schwartz;Consumer;B
+Maya Herman;Corporate;B
+Meg O'Connel;Home Office;E
+Meg Tillman;Consumer;C
+Melanie Seite;Consumer;B
+Michael Chen;Consumer;A
+Michael Dominguez;Corporate;E
+Michael Grace;Home Office;E
+Michael Granlund;Home Office;D
+Michael Kennedy;Corporate;E
+Michael Moore;Consumer;E
+Michael Nguyen;Consumer;E
+Michael Oakman;Consumer;E
+Michael Paige;Corporate;E
+Michael Stewart;Corporate;B
+Michelle Arnett;Home Office;A
+Michelle Ellison;Corporate;C
+Michelle Huthwaite;Consumer;E
+Michelle Lonsdale;Corporate;E
+Michelle Moray;Consumer;E
+Michelle Tran;Home Office;E
+Mick Brown;Consumer;D
+Mick Crebagga;Consumer;E
+Mick Hernandez;Home Office;D
+Mike Caudle;Corporate;B
+Mike Gockenbach;Consumer;E
+Mike Kennedy;Consumer;B
+Mike Pelletier;Home Office;D
+Mike Vittorini;Consumer;A
+Mitch Gastineau;Corporate;E
+Mitch Webber;Consumer;C
+Mitch Willingham;Corporate;A
+Monica Federle;Corporate;A
+Muhammed Lee;Consumer;B
+Muhammed MacIntyre;Corporate;C
+Muhammed Yedwab;Corporate;E
+Nancy Lomonaco;Home Office;A
+Naresj Patel;Consumer;B
+Nat Carroll;Consumer;A
+Nat Gilpin;Corporate;A
+Natalie DeCherney;Consumer;E
+Natalie Fritzler;Consumer;E
+Natalie Webber;Consumer;E
+Nathan Cano;Consumer;E
+Nathan Gelder;Consumer;A
+Nathan Mautz;Home Office;A
+Neil Ducich;Corporate;B
+Neil Französisch;Home Office;E
+Neil Knudson;Home Office;A
+Neola Schneider;Consumer;D
+Neoma Murray;Consumer;E
+Nick Crebassa;Corporate;B
+Nick Radford;Consumer;E
+Nick Zandusky;Home Office;C
+Nicole Brennan;Corporate;E
+Nicole Fjeld;Home Office;A
+Nicole Hansen;Corporate;A
+Noah Childs;Corporate;E
+Noel Staavos;Corporate;E
+Nona Balk;Corporate;D
+Nora Paige;Consumer;A
+Nora Pelletier;Home Office;C
+Nora Preis;Consumer;E
+Odella Nelson;Corporate;D
+Olvera Toch;Consumer;E
+Pamela Coakley;Corporate;E
+Pamela Stobb;Consumer;E
+Parhena Norris;Home Office;B
+Patricia Hirasaki;Home Office;E
+Patrick Bzostek;Home Office;A
+Patrick Gardner;Consumer;E
+Patrick Jones;Corporate;A
+Patrick O'Brill;Consumer;D
+Patrick O'Donnell;Consumer;A
+Patrick Ryan;Consumer;B
+Paul Gonzalez;Consumer;C
+Paul Knutson;Home Office;E
+Paul Lucas;Home Office;E
+Paul MacIntyre;Consumer;D
+Paul Prost;Home Office;C
+Paul Stevenson;Home Office;A
+Paul Van Hugh;Home Office;A
+Pauline Chand;Home Office;E
+Pauline Johnson;Consumer;A
+Pauline Webber;Corporate;A
+Penelope Sewall;Home Office;B
+Pete Armstrong;Home Office;C
+Pete Kriz;Consumer;A
+Pete Takahito;Consumer;E
+Peter Bühler;Consumer;A
+Peter Fuller;Consumer;E
+Peter McVee;Home Office;B
+Philip Brown;Consumer;B
+Philip Fox;Consumer;B
+Philisse Overcash;Home Office;C
+Phillina Ober;Home Office;E
+Phillip Breyer;Corporate;C
+Phillip Flathmann;Consumer;A
+Pierre Wener;Consumer;D
+Quincy Jones;Corporate;C
+Rachel Payne;Corporate;D
+Ralph Arnett;Consumer;E
+Ralph Kennedy;Consumer;A
+Ralph Ritter;Consumer;E
+Randy Bradley;Consumer;E
+Randy Ferguson;Corporate;D
+Raymond Buch;Consumer;B
+Raymond Messe;Consumer;A
+Resi Pölking;Consumer;E
+Ricardo Emerson;Consumer;D
+Ricardo Sperren;Corporate;A
+Richard Bierner;Consumer;E
+Richard Eichhorn;Consumer;B
+Rick Bensley;Home Office;D
+Rick Duston;Consumer;A
+Rick Hansen;Consumer;A
+Rick Huthwaite;Home Office;A
+Rick Reed;Corporate;A
+Rick Wilson;Corporate;C
+Ritsa Hightower;Consumer;E
+Rob Beeghly;Consumer;D
+Rob Dowd;Consumer;A
+Rob Haberlin;Consumer;C
+Rob Lucas;Consumer;E
+Rob Williams;Corporate;E
+Robert Barroso;Corporate;A
+Robert Dilbeck;Home Office;C
+Robert Marley;Home Office;A
+Robert Waldorf;Consumer;B
+Roger Barcio;Home Office;E
+Roger Demir;Consumer;D
+Roland Fjeld;Consumer;A
+Roland Murray;Consumer;A
+Roland Schwarz;Corporate;A
+Rose O'Brian;Consumer;E
+Ross Baird;Home Office;E
+Ross DeVincentis;Home Office;D
+Roy Collins;Consumer;B
+Roy Französisch;Consumer;C
+Roy Phan;Corporate;E
+Roy Skaria;Home Office;A
+Ruben Ausman;Corporate;A
+Ruben Dartt;Consumer;A
+Russell Applegate;Consumer;E
+Russell D'Ascenzo;Consumer;E
+Ryan Akin;Consumer;E
+Ryan Crowe;Consumer;B
+Sally Hughsby;Corporate;D
+Sally Knutson;Consumer;E
+Sally Matthias;Consumer;E
+Sam Craven;Consumer;E
+Sam Zeldin;Home Office;E
+Sample Company A;Home Office;E
+Sandra Flanagan;Consumer;B
+Sandra Glassco;Consumer;A
+Sanjit Chand;Consumer;A
+Sanjit Engle;Consumer;C
+Sanjit Jacobs;Home Office;E
+Saphhira Shifley;Corporate;D
+Sara Luxemburg;Home Office;E
+Sarah Bern;Consumer;E
+Sarah Brown;Consumer;C
+Sarah Foster;Consumer;C
+Sarah Jordon;Consumer;E
+Scot Coram;Corporate;C
+Scot Wooten;Consumer;E
+Scott Cohen;Corporate;E
+Scott Williamson;Consumer;A
+Sean Braxton;Corporate;E
+Sean Christensen;Consumer;D
+Sean Miller;Home Office;E
+Sean O'Donnell;Consumer;C
+Sean Wendt;Home Office;E
+Seth Vernon;Consumer;D
+Shahid Collister;Consumer;E
+Shahid Hopkins;Consumer;E
+Shahid Shariari;Consumer;E
+Sharelle Roach;Home Office;E
+Shaun Chance;Corporate;E
+Shaun Weien;Consumer;A
+Sheri Gordon;Consumer;E
+Shirley Daniels;Home Office;B
+Shirley Jackson;Consumer;E
+Shirley Schmidt;Home Office;A
+Shui Tom;Consumer;E
+Sibella Parks;Corporate;E
+Skye Norling;Home Office;D
+Sonia Cooley;Consumer;E
+Sonia Sunley;Consumer;A
+Speros Goranitis;Consumer;B
+Stefania Perrino;Corporate;E
+Stefanie Holloman;Corporate;C
+Stephanie Phelps;Corporate;C
+Stephanie Ulpright;Home Office;B
+Steve Carroll;Home Office;A
+Steve Chapman;Corporate;E
+Steve Nguyen;Home Office;B
+Steven Cartwright;Consumer;E
+Steven Roelle;Home Office;A
+Steven Ward;Corporate;A
+Stewart Carmichael;Corporate;E
+Stewart Visinsky;Consumer;E
+Stuart Calhoun;Consumer;B
+Stuart Van;Corporate;C
+Sue Ann Reed;Consumer;C
+Sung Chung;Consumer;B
+Sung Pak;Corporate;E
+Sung Shariari;Consumer;E
+Susan Gilcrest;Corporate;E
+Susan MacKendrick;Consumer;E
+Susan Pistek;Consumer;E
+Susan Vittorini;Consumer;E
+Suzanne McNair;Corporate;C
+Sylvia Foulston;Corporate;E
+Tamara Chand;Corporate;B
+Tamara Dahlen;Consumer;E
+Tamara Manning;Consumer;B
+Tamara Willingham;Home Office;B
+Tanja Norvell;Home Office;E
+Ted Butterfield;Consumer;A
+Ted Trevino;Consumer;A
+Thais Sissman;Consumer;E
+Thea Hendricks;Consumer;C
+Thea Hudgings;Corporate;E
+Theone Pippenger;Consumer;E
+Theresa Coyne;Corporate;B
+Theresa Swint;Corporate;E
+Thomas Boland;Corporate;B
+Thomas Brumley;Home Office;A
+Thomas Seio;Corporate;E
+Thomas Thornton;Consumer;E
+Tiffany House;Corporate;E
+Tim Brockman;Consumer;E
+Tim Taslimi;Corporate;A
+Toby Braunhardt;Consumer;A
+Toby Carlisle;Consumer;D
+Toby Gnade;Consumer;E
+Toby Ritter;Consumer;A
+Toby Swindell;Consumer;E
+Todd Boyes;Corporate;A
+Todd Sumrall;Corporate;E
+Tom Ashbrook;Home Office;D
+Tom Boeckenhauer;Consumer;A
+Tom Prescott;Consumer;E
+Tom Stivers;Corporate;C
+Tonja Turnell;Home Office;C
+Tony Chapman;Home Office;E
+Tony Molinari;Consumer;B
+Tony Sayre;Consumer;E
+Tracy Blumstein;Consumer;E
+Tracy Collins;Home Office;C
+Tracy Hopkins;Home Office;B
+Tracy Poddar;Corporate;E
+Tracy Zic;Consumer;A
+Troy Blackwell;Consumer;E
+Troy Staebel;Consumer;E
+Trudy Brown;Consumer;E
+Trudy Glocke;Consumer;C
+Trudy Schmidt;Consumer;E
+Valerie Dominguez;Consumer;B
+Valerie Mitchum;Home Office;B
+Valerie Takahito;Home Office;E
+Vicky Freymann;Home Office;A
+Victor Preis;Home Office;B
+Victoria Brennan;Corporate;E
+Victoria Pisteka;Corporate;E
+Victoria Wilson;Corporate;D
+Vivek Gonzalez;Consumer;B
+Vivek Grady;Corporate;B
+Vivek Sundaresam;Consumer;E
+Vivian Mathis;Consumer;B
+William Brown;Consumer;E
+Xylona Preis;Consumer;A
+Yana Sorensen;Corporate;B
+Yoseph Carroll;Corporate;A
+Zuschuss Carroll;Consumer;E
+Zuschuss Donatelli;Consumer;A
