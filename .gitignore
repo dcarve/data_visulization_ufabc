@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+abntex2-modelo-include-comandos.aux
+main.toc
+main.synctex.gz
+main.lot
+main.loq
+main.log
+main.lof
+main.ind
+main.ilg
+main.idx
+main.fls
+main.fdb_latexmk
+main.aux
+main.bbl
+main.blg
+main.brf

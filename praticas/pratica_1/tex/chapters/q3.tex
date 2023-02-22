@@ -1,0 +1,77 @@
+\chapter{Questao 3}
+
+\subsection*{Código}
+
+\begin{python}
+import pandas as pd
+
+# pré convertido para utf-8
+df = pd.read_csv('VIS_Pr_01_Vendas.csv')
+
+df = df.copy()
+
+df['perform']  = df['Profit']/(df['Sales']-df['Discount'])
+
+df = df.groupby(['Customer Name', 'Segment']).agg(
+    {'perform': ['mean']}
+).reset_index()
+
+df.columns = [t[0] for t in df.columns]
+
+
+def f(x):
+    
+    if x<0.1:
+        return "E"
+    elif (x>-0.1) and (x<0.15):
+        return "D"
+    elif (x>-0.15) and (x<0.2):
+        return "C"
+    elif (x>-0.2) and (x<0.25):
+        return "B"
+    elif (x>-0.25):
+        return "A"
+
+
+df['perform'] = df.apply(
+    lambda row: f(row['perform']),
+    axis=1
+)
+
+
+#exportando csv configurações do MS excel
+df.to_csv(
+    'result_q3.csv',
+    sep=';',
+    index=False,
+    encoding='utf-8-sig'
+)
+    
+\end{python}
+
+
+\subsection*{Output file}
+
+
+\begin{quadro}[htb]
+	\caption{File - result\_q23.csv}
+    \begin{tabular}{|l|l|l|}
+		\hline
+        Customer Name & Segment & perform \\ \hline
+        Aaron Bergman & Consumer & D \\ \hline
+        Aaron Hawkins & Corporate & A \\ \hline
+        Aaron Smayling & Corporate & E \\ \hline
+        Adam Bellavance & Home Office & A \\ \hline
+        Adam Hart & Corporate & C \\ \hline
+        Adam Shillingsburg & Consumer & E \\ \hline
+        Adrian Barton & Consumer & E \\ \hline
+        ... & ... & ... \\ \hline
+        Zuschuss Carroll & Consumer & E \\ \hline
+        Zuschuss Donatelli & Consumer & A \\ \hline
+	\end{tabular}
+	\end{quadro}
+
+\subsection*{Comentários}
+Esse é caso em que falta é necessário supor algumas informação.
+após fazer a conta de performance, para os caso de houver mais de uma categoria vendida por consumidor, o resultado da performance é uma soma ou média?
+Nesse caso foi suposto uma média, pois faria mais sentido com as condições estabelecidas depois, em que converte o valor da performance em letras de "A" a "E"

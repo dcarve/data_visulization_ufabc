@@ -1,0 +1,52 @@
+\chapter{Questao 1}
+
+\subsection*{Código}
+
+\begin{python}
+import pandas as pd
+import numpy as np
+import matplotlib
+
+# pré convertido para utf-8
+df = pd.read_csv('VIS_Pr_01_Vendas.csv')
+
+df = df.groupby('Region').agg(
+    {
+        'Sales': ['sum'],
+        'Profit': ['sum'],
+        'Discount': ['mean']     
+    }
+).reset_index()
+
+
+df.columns = ["_".join(t).strip('_') for t in df.columns]
+
+#exportando csv configurações do MS excel
+df.to_csv(
+    'result_q1.csv',
+    sep=';',
+    index=False,
+    encoding='utf-8-sig'
+)
+\end{python}
+
+\subsection*{Output file}
+
+
+\begin{quadro}[htb]
+	\caption{File - result\_q1.csv }
+    \begin{tabular}{|l|l|l|l|}
+		\hline
+        Region & Sales\_sum & Profit\_sum & Discount\_mean \\ \hline
+        Central&501239.8908&39706.3625&0.24035299182092124 \\ \hline
+        East&678781.24&91522.78&0.14536516853932585 \\ \hline
+        South&391721.905&46749.4303&0.1472530864197531 \\ \hline
+        West&725457.8245&108418.4489&0.10933499843896347 \\ \hline
+	\end{tabular}
+	\end{quadro}
+
+\subsection*{Comentários}
+ O arquivo veio com o encoder ANSI, que é proprietário da Microsoft, o que atrapalha a leitura no linux, logo o arquivo tem que ser converdito para um outro encoder,
+ no caso, o arquivo foi convertido para utf-8.
+ No windows, o arquivo pode ser lido usando pd.read_csv('VIS_Pr_01_Vendas.csv', encoding='ansi'), mas não funcionaria no linux.
+ Já a exportação do arquivo, a configuração nativa de csv usado no excel, é com seprador ";" e o encoder tem que ser utf-8-sig.

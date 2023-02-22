@@ -1,0 +1,50 @@
+\input{config/config_class.tex}
+
+
+% Início do documento
+\begin{document}
+
+% Seleciona o idioma do documento (conforme pacotes do babel)
+%\selectlanguage{english}
+\selectlanguage{brazil}
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+
+% ELEMENTOS TEXTUAIS
+\textual
+
+	% Capitulo com exemplos de comandos inseridos de arquivo externo 
+	\include{abntex2-modelo-include-comandos}
+
+	\chapter{Projeto 1}
+		Daniel Ermelino Carvalho - RA 11092613
+		
+		Elton Mauricio Da Silva - RA 
+
+		link de arquivos: \url{https://github.com/dcarve/data_visulization_ufabc}
+	
+	\input{chapters/q1.tex}
+
+	\input{chapters/q2.tex}
+
+	\input{chapters/q3.tex}
+
+
+	% ----------------------------------------------------------
+	% Finaliza a parte no bookmark do PDF
+	% para que se inicie o bookmark na raiz
+	% e adiciona espaço de parte no Sumário
+	% ----------------------------------------------------------
+	\phantompart
+
+%---------------------------------------------------------------------
+% INDICE REMISSIVO
+%---------------------------------------------------------------------
+\phantompart
+\printindex
+
+
+\end{document}
+
