@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 import matplotlib
 
-# pré convertido para utf-8
+# pre convertido para utf-8
 df = pd.read_csv('VIS_Pr_01_Vendas.csv')
 
 df = df.groupby('Region').agg(
@@ -21,7 +21,7 @@ df = df.groupby('Region').agg(
 
 df.columns = ["_".join(t).strip('_') for t in df.columns]
 
-#exportando csv configurações do MS excel
+#exportando csv configuracoes do MS excel
 df.to_csv(
     'result_q1.csv',
     sep=';',
@@ -48,5 +48,5 @@ df.to_csv(
 \subsection*{Comentários}
  O arquivo veio com o encoder ANSI, que é proprietário da Microsoft, o que atrapalha a leitura no linux, logo o arquivo tem que ser converdito para um outro encoder,
  no caso, o arquivo foi convertido para utf-8.
- No windows, o arquivo pode ser lido usando pd.read_csv('VIS_Pr_01_Vendas.csv', encoding='ansi'), mas não funcionaria no linux.
- Já a exportação do arquivo, a configuração nativa de csv usado no excel, é com seprador ";" e o encoder tem que ser utf-8-sig.
+ No windows, o arquivo pode ser lido usando pd.read\_csv('VIS\_Pr\_01\_Vendas.csv', encoding='ansi'), mas não funcionaria no linux.
+ Já a exportação do arquivo, a configuração nativa de csv usado no excel, é com separador ";" e o encoder tem que ser utf-8-sig.

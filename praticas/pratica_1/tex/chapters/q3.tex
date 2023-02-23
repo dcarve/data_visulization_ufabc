@@ -5,7 +5,7 @@
 \begin{python}
 import pandas as pd
 
-# pré convertido para utf-8
+# pre convertido para utf-8
 df = pd.read_csv('VIS_Pr_01_Vendas.csv')
 
 df = df.copy()
@@ -39,7 +39,7 @@ df['perform'] = df.apply(
 )
 
 
-#exportando csv configurações do MS excel
+#exportando csv configuracoes do MS excel
 df.to_csv(
     'result_q3.csv',
     sep=';',
@@ -74,4 +74,4 @@ df.to_csv(
 \subsection*{Comentários}
 Esse é caso em que falta é necessário supor algumas informação.
 após fazer a conta de performance, para os caso de houver mais de uma categoria vendida por consumidor, o resultado da performance é uma soma ou média?
-Nesse caso foi suposto uma média, pois faria mais sentido com as condições estabelecidas depois, em que converte o valor da performance em letras de "A" a "E"
+Nesse caso foi suposto uma média, pois faria mais sentido com as condições estabelecidas depois, em que converte o valor da performance em letras de "A" a "E".
