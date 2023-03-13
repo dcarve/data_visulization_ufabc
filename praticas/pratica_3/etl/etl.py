@@ -12,13 +12,13 @@ def read_data_and_clean_up():
     cols  = list(df.columns)
     cols.remove("Country")
     
-    
-    
     def clean_up_countrie_names(row):
         if "d'Ivoire" in row['Country']:
             return "Côte d'Ivoire"
         elif "rkiye" in row['Country']:
             return "Turkiye"
+        elif "Korea" in row['Country']:
+            return "South Korea"
         else:
             return row['Country']
     
